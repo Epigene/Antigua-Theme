@@ -1,7 +1,7 @@
 Antigua-Theme
 =============
 
-Antigua theme for Tublime Text 2
+Antigua theme for Sublime Text 2 [Ruby and plaintext support]
 
 License & Warranty
 =============
