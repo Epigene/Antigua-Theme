@@ -29,13 +29,13 @@
 				<key>caret</key>
 				<string>#d94f52</string>
 				<key>foreground</key>
-				<string>#f8f8f2</string>
+				<string>#9cbbbe</string>
 				<key>invisibles</key>
 				<string>#d7d6d0</string>
 				<key>lineHighlight</key>
-				<string>#9da3e6</string>
+				<string>#00394a</string>
 				<key>selection</key>
-				<string>#005c77</string>
+				<string>#006582</string>
 			</dict>
 		</dict>
 		<dict>
