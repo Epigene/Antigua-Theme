@@ -102,6 +102,26 @@
 				</dict>
 			</array>
 		</dict>
+		<dict>
+			<key>begin</key>
+			<string>^([ \t]*)(?=\S)</string>
+			<key>contentName</key>
+			<string>meta.paragraph.text</string>
+			<key>end</key>
+			<string>^(?!\1(?=\S))</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>(?x)
+						( (#)
+						[-:@a-zA-Z0-9_.,~%+/?=&amp;#]+(?&lt;![.,?:])
+					</string>
+					<key>name</key>
+					<string>meta.hash.strong.text</string>
+				</dict>
+			</array>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>text.plain</string>
